@@ -21,7 +21,5 @@
 
 <a href="https://ibb.co/VtTTMVD"><img src="https://i.ibb.co/0crrYqZ/delete.jpg" alt="delete" border="0"></a>
 
-<a href="https://ibb.co/8c1SgRV"><img src="https://i.ibb.co/KwT3xQH/Screenshot-443.png" alt="Screenshot-443" border="0"></a>
-
 # ERD
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/nc7dzv2/Whats-App-Image-2023-11-10-at-13-20-28-79e17e33.jpg" alt="Whats-App-Image-2023-11-10-at-13-20-28-79e17e33" border="0"></a>
