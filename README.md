@@ -11,9 +11,9 @@
    
 5. Delete car by id (DELETE) = http://localhost:8081/api/cars/:id
    
-# Postman & Dbeaver
+# Postman & Dbeaver (with Cloudinary)
 
-<a href="https://ibb.co/8DGKfdC"><img src="https://i.ibb.co/N6fVJmv/Screenshot-441.png" alt="Screenshot-441" border="0"></a>
+<a href="https://ibb.co/z5c7nmc"><img src="https://i.ibb.co/CtdM1wd/Whats-App-Image-2023-11-10-at-21-27-53-f212ca3b.jpg" alt="Whats-App-Image-2023-11-10-at-21-27-53-f212ca3b" border="0"></a>
 <a href="https://ibb.co/NthBXLq"><img src="https://i.ibb.co/rFPrgZh/Screenshot-440.png" alt="Screenshot-440" border="0"></a>
 <a href="https://ibb.co/ZNhRBJz"><img src="https://i.ibb.co/LvCDxPd/Screenshot-446.png" alt="Screenshot-446" border="0"></a>
 <a href="https://ibb.co/mcTnW7w"><img src="https://i.ibb.co/BC3hMRx/Screenshot-442.png" alt="Screenshot-442" border="0"></a>
