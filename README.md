@@ -12,15 +12,14 @@
 5. Delete car by id (DELETE) = http://localhost:8081/api/cars/:id
    
 # Postman & Dbeaver (with Cloudinary)
+<a href="https://ibb.co/z5c7nmc"><img src="https://i.ibb.co/CtdM1wd/Whats-App-Image-2023-11-10-at-21-27-53-f212ca3b.jpg" alt="Whats-App-Image-2023-11-10-at-21-27-53-f212ca3b" border="0"></a>
 
-1. <a href="https://ibb.co/z5c7nmc"><img src="https://i.ibb.co/CtdM1wd/Whats-App-Image-2023-11-10-at-21-27-53-f212ca3b.jpg" alt="Whats-App-Image-2023-11-10-at-21-27-53-f212ca3b" border="0"></a>
+<a href="https://ibb.co/zr96vnz"><img src="https://i.ibb.co/6m9XCnk/getall.jpg" alt="getall" border="0"></a>
+<a href="https://ibb.co/QfhY8Vt"><img src="https://i.ibb.co/SPHVQgG/getID.jpg" alt="getID" border="0"></a>
 
-2. <a href="https://ibb.co/zr96vnz"><img src="https://i.ibb.co/6m9XCnk/getall.jpg" alt="getall" border="0"></a>
-3. <a href="https://ibb.co/QfhY8Vt"><img src="https://i.ibb.co/SPHVQgG/getID.jpg" alt="getID" border="0"></a>
+<a href="https://ibb.co/BG9X8t4"><img src="https://i.ibb.co/68k36mv/update.jpg" alt="update" border="0"></a>
 
-4. <a href="https://ibb.co/BG9X8t4"><img src="https://i.ibb.co/68k36mv/update.jpg" alt="update" border="0"></a>
-
-5. <a href="https://ibb.co/VtTTMVD"><img src="https://i.ibb.co/0crrYqZ/delete.jpg" alt="delete" border="0"></a>
+<a href="https://ibb.co/VtTTMVD"><img src="https://i.ibb.co/0crrYqZ/delete.jpg" alt="delete" border="0"></a>
 
 <a href="https://ibb.co/8c1SgRV"><img src="https://i.ibb.co/KwT3xQH/Screenshot-443.png" alt="Screenshot-443" border="0"></a>
 
